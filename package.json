@@ -1,0 +1,4 @@
+{ "name": "ilp-plugin-bells-10",
+  "version": "1.0.0",
+  "description":"ilp-plugin-bells version 10",
+  "dependencies": { "ilp-plugin-bells":"10" } }
